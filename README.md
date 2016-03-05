@@ -11,7 +11,7 @@ Works on simulator and device:
 3) "Enable Bitcode" should be set to No
 
 4) include this headers inside your uiviewcontroller:
-
+```
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -19,7 +19,7 @@ Works on simulator and device:
 #include "hiredis.h"
 #include "async.h"
 #include "libevent.h"
-
+```
 Now you are done. Enjoy!
 
 For more information read on how to get started: https://github.com/redis/hiredis
