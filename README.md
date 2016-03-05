@@ -1,5 +1,6 @@
 # Redis-ios-
-Redis support for ios
+
+Redis support for ios based on the Hiredis library.
 
 
 Works on simulator and device:
